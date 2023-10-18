@@ -1,0 +1,3 @@
+packages:
+  - 'ember-feather-icons'
+  - 'test-app'
