@@ -1,6 +1,6 @@
 # ember-feather-icons
 
-[Short description of the addon.]
+An addon for the feather icons pack as tree-shakeable and statically-importable Glimmer components.
 
 ## Compatibility
 
@@ -15,7 +15,15 @@ ember install ember-feather-icons
 
 ## Usage
 
-[Longer description of how to use the addon in apps.]
+```js
+import BatteryCharging from 'ember-feather-icons/components/battery-charging';
+
+<template>
+  <BatteryCharging />
+</template>
+```
+
+See [feathericons.com](https://feathericons.com/)
 
 ## Contributing
 
